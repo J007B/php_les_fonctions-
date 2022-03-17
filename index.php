@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php include (_main.php) ?>
 </body>
 </html>
